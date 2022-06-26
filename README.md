@@ -50,6 +50,17 @@ For robustness evaluation on AA, you first need installation `pip install git+ht
 python eval_aa.py
 ```
 
+## Citation
+If the code helps your research, please consider to cite our work:
+
+    @article{yu2022understanding,
+      title={Understanding Robust Overfitting of Adversarial Training and Beyond},
+      author={Yu, Chaojian and Han, Bo and Shen, Li and Yu, Jun and Gong, Chen and Gong, Mingming and Liu, Tongliang},
+      journal={arXiv preprint arXiv:2206.08675},
+      year={2022}
+    }
+
+
 ## Reference Code
 [1] AT: https://github.com/locuslab/robust_overfitting
 
