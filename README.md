@@ -51,7 +51,7 @@ python eval_aa.py
 ```
 
 ## Citation
-If you find our code useful, please consider citing our work:
+If you find our code helpful, please consider citing our work:
 
     @article{yu2022understanding,
       title={Understanding Robust Overfitting of Adversarial Training and Beyond},
